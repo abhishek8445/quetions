@@ -1,0 +1,9 @@
+step 1 :- create a server in app.js 
+step 2 :- create a router inside create  a route with post method
+step 3 :- create db_conncetion file inside a db folder 
+step 4 :- first download npm i mongodb
+step 5 :- import {Mongoclient} from "mongodb"
+step 6:- mongodb method inside write a path of our database and store a one variable .
+step 7 :- those variable those variable retunn a promise 
+
+
